@@ -1,0 +1,6 @@
+@CodingExercise.Santander.HackerNews.WebAPI_HostAddress = http://localhost:5263
+
+GET {{CodingExercise.Santander.HackerNews.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

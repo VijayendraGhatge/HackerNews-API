@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/Adapters/">
+    <Project Path="Adapters/CodingExercise.Santander.FirebaseIONewsServices/CodingExercise.Santander.FirebaseIONewsServices.csproj" />
+  </Folder>
+  <Folder Name="/Application/" />
+  <Folder Name="/Application/Models/">
+    <Project Path="Application/Models/CodingExercise.Santander.HackerNews.Models/CodingExercise.Santander.HackerNews.Models.csproj" />
+  </Folder>
+  <Folder Name="/Application/Services/">
+    <Project Path="Application/Services/CodingExercise.Santander.HackerNews.BusinessServices/CodingExercise.Santander.HackerNews.BusinessServices.csproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/CodingExercise.Santander.HackerNews.IntegrationTests/CodingExercise.Santander.HackerNews.IntegrationTests.csproj" />
+  </Folder>
+  <Folder Name="/_Hosts/">
+    <Project Path="_Hosts/CodingExercise.Santander.HackerNews.WebAPI/CodingExercise.Santander.HackerNews.WebAPI.csproj" />
+  </Folder>
+</Solution>

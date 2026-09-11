@@ -55,3 +55,4 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/CodingExercise.Santander.HackerNews/.vs/CodingExercise.Santander.HackerNews.slnx/FileContentIndex
